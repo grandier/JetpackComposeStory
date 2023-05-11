@@ -1,5 +1,5 @@
 # JetpackComposeStory
-## JetpackComposeStory is a project created as part of the Dicoding "Menjadi Android Developer Expert" course. It is a sample application built with Jetpack Compose, a modern UI toolkit for building native Android apps with declarative Kotlin code.
+## JetpackComposeStory is a project created as part of the Dicoding course. It is a sample application built with Jetpack Compose, a modern UI toolkit for building native Android apps with declarative Kotlin code.
 
 ### Features
 JetpackComposeStory is a simple app that allows users to view and read stories. The app includes the following features:
